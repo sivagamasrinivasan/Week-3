@@ -6,7 +6,7 @@ package studentprint;
 
 /**
  * today fetch and merge hello check
- * today fetch and merge hello test branch
+ * today fetch and merge hello test branch modified
  * @author sivagamasrinivasan
  */
 public class Student {
