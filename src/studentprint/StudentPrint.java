@@ -26,11 +26,7 @@ public class StudentPrint {
         Student s1 = new Student(n,a);
         list[i]=s1;
         }
-         for(int i=0;i<list.length;i++)
-        {
-        System.out.println(list[i]+" "+list[i].getAge());
-        
-    }
+         //lucky Card
     }
     
 }
