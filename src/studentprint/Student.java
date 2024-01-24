@@ -12,6 +12,7 @@ package studentprint;
 public class Student {
     private String name;
     private int age;
+    private int seno;
 
    public Student(String n, int a)
    {
